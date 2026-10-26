@@ -1,0 +1,2 @@
+# Bounty Bot: blocked activation codes, one code id per line (tools/make_code.py --revoke).
+# The app reads this file from the repo; take a line out to unblock that code.
